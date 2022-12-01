@@ -593,6 +593,7 @@
 	position: absolute;
 	right: 0;
 	bottom: 0;
+	display: none !important;
 }
 
 .mapplic-zoom-buttons button {
