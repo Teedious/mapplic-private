@@ -26,7 +26,7 @@
 			portrait: 860,
 			minimap: false,
 			deeplinking: true,
-			lightbox: true,
+			lightbox: false,
 			fullscreen: false,
 			hovertip: true,
 			defaultstyle: null,
@@ -39,7 +39,7 @@
 			hovertipdesc: false,
 
 			// sidebar
-			sidebar: true,
+			sidebar: false,
 			sidebartoggle: false,
 			filtersopened: false,
 			search: true,
@@ -52,7 +52,7 @@
 			sortby: 'title',
 
 			// zoom
-			zoom: true,
+			zoom: false,
 			clearbutton: true,
 			zoombuttons: true,
 			zoomoutclose: false,
