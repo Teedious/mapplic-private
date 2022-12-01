@@ -1660,6 +1660,7 @@ input.mapplic-search-input:focus {
 	position: absolute;
 	left: 0;
 	bottom: 0;
+	display: none !important;
 }
 
 .mapplic-legend-label {
